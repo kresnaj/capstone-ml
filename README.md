@@ -10,10 +10,10 @@ I will make a visualization to know the composition of the dataset, here's the s
 2. Category Content <br></br>
 ![alt text](https://github.com/kresnaj/capstone-ml/blob/master/data_analysis/facet_kategori.png?raw=true)
 
-3. Sentiment by Category <br></br>
+3. Distribution Sentiment by Category <br></br>
 ![alt text](https://github.com/kresnaj/capstone-ml/blob/master/data_analysis/distribusi_sentimen_kategori.png?raw=true)
 
-4. Total Data and Words by Category <br></br>
+4. Total Data by Words <br></br>
 ![alt text](https://github.com/kresnaj/capstone-ml/blob/master/data_analysis/scatter_jumlah_kata_kategori.png?raw=true)
 
 5. Dissemination of Public Complaints <br></br>
