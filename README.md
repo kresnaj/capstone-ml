@@ -1,6 +1,6 @@
 # About This Project
-Making a model from sklearn and Tensorflow for Classification Sentiment from public complaints dataset. I'm temporarily using Random Forest and XGBoost for traditional machine learning and Tensorflow with LSTM for Deep Learning.
-> The accuracy it's still 50%, but still on development
+Making a model from sklearn and Tensorflow for Classification Sentiment from public complaints dataset. I'm temporarily using Random Forest and XGBoost for traditional machine learning, XGBoost and Pytorch/Tensorflow for Deep Learning.
+> The accuracy from Pytorch 50% and TensorFlow 35%, but still on development
 ## What is the composition of the dataset?
 I will make a visualization to know the composition of the dataset, here's the summary:
 
